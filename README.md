@@ -1,4 +1,4 @@
-# Demo Spring Batch Remote Chunking Kafka
+# Demo Spring Batch Remote Partition Kafka using Polling Strategy
 
 
 `spring-boot:build-image`
