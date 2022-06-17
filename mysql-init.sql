@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS demo;
+
+GRANT ALL PRIVILEGES ON demo.* TO 'mysqluser'@'%' WITH GRANT OPTION;
+
+USE demo;
+
